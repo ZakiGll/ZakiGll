@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZakiGll
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning back end
-- 💞️ I’m looking to collaborate on making big web sites
+- 👀 I’m interested in Web development and mobile app's development
+- 💞️ I’m looking to collaborate on making big projects
 
 <!---
 ZakiGll/ZakiGll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

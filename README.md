@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZakiGll
-- 👀 I’m interested in Web development and mobile app's development
+- 👀 I’m interested in data science and mobile app's development
 - 💞️ I’m looking to collaborate on making big projects
 
 <!---

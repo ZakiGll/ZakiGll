@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZakiGll
-- 👀 I’m interested in data science and mobile app's development
-- 💞️ I’m looking to collaborate on making big projects
+- 👀 I’m Passionate about the art of leveraging data and AI to transform possibilities into realities 🚀
+- 💞️ I’m looking to merge creativity and technology to bring innovative projects to life.
 
 <!---
 ZakiGll/ZakiGll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
